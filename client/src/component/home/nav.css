@@ -1,0 +1,31 @@
+header {
+  background-color: rgb(143, 157, 199);
+  width: 100%;
+  height: 80px;
+  position: sticky;
+  padding-top: 15px;
+}
+.user {
+  display: inline-flex;
+  float: right;
+}
+
+
+
+.logo{
+    width: 60px;
+    height: 60px;
+}
+
+li{
+  display: inline;
+  padding: 20px;
+  cursor: pointer;
+}
+
+.link{
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+  margin: 1rem;
+  position: relative;
+}

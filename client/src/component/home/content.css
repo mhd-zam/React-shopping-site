@@ -1,0 +1,24 @@
+.item {
+  width: 200px;
+  height: auto;
+}
+.post {
+  border-radius: 5px;
+  width: 220px;
+  height: 400px;
+  background-color: rgb(250, 241, 241);
+  padding: 10px;
+  margin: 10px 0px 10px 30px;
+  float: left;
+}
+#description {
+  width: 200px;
+  word-wrap: break-word;
+  background-color: transparent;
+  height: 200px;
+  position: absolute;
+}
+.content {
+  max-width: 100%;
+  
+}
